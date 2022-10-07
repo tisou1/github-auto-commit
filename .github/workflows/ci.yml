@@ -7,7 +7,7 @@ on:
 
 
 jobs:
-  auto commit to github:
+  auto-commit-to-github:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
